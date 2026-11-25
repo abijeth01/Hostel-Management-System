@@ -1,0 +1,14 @@
+# Compiled executables
+hostel
+hostel.exe
+a.out
+
+# Runtime student data
+hostel.txt
+
+# macOS
+.DS_Store
+
+# Editor / IDE files
+.vscode/
+.idea/
